@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-loadable-components-ssr",
+  "name": "gatsby-plugin-loadable-components-ssr-fix",
   "description": "Server-side rendering loadable components in your gatsby application",
   "version": "2.0.0",
   "author": "Hector del Rio <public.hector.del.rio@gmail.com>",
@@ -8,9 +8,9 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.7.6",
-    "@loadable/babel-plugin": "^5.11.0",
-    "@loadable/server": "^5.11.0",
-    "@loadable/webpack-plugin": "^5.7.1",
+    "@loadable/babel-plugin": "^5.12.0",
+    "@loadable/server": "^5.12.0",
+    "@loadable/webpack-plugin": "^5.12.0",
     "react-dom": "^16.12.0"
   },
   "devDependencies": {
